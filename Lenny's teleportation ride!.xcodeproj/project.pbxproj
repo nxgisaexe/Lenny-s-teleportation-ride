@@ -17,6 +17,10 @@
 		A28FE5A1286B8AF5002E9F51 /* Lenny_s_teleportation_ride_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5A0286B8AF5002E9F51 /* Lenny_s_teleportation_ride_Tests.swift */; };
 		A28FE5AB286B8AF5002E9F51 /* Lenny_s_teleportation_ride_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5AA286B8AF5002E9F51 /* Lenny_s_teleportation_ride_UITests.swift */; };
 		A28FE5AD286B8AF5002E9F51 /* Lenny_s_teleportation_ride_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5AC286B8AF5002E9F51 /* Lenny_s_teleportation_ride_UITestsLaunchTests.swift */; };
+		A28FE5BA286B93CB002E9F51 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5B9286B93CB002E9F51 /* HomeViewController.swift */; };
+		A28FE5BC286B97A0002E9F51 /* FarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5BB286B97A0002E9F51 /* FarmViewController.swift */; };
+		A28FE5BE286B97E7002E9F51 /* SeaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5BD286B97E7002E9F51 /* SeaViewController.swift */; };
+		A28FE5C0286B97F4002E9F51 /* ArcticViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5BF286B97F4002E9F51 /* ArcticViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,10 @@
 		A28FE5A6286B8AF5002E9F51 /* Lenny's teleportation ride!UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lenny's teleportation ride!UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A28FE5AA286B8AF5002E9F51 /* Lenny_s_teleportation_ride_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lenny_s_teleportation_ride_UITests.swift; sourceTree = "<group>"; };
 		A28FE5AC286B8AF5002E9F51 /* Lenny_s_teleportation_ride_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lenny_s_teleportation_ride_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A28FE5B9286B93CB002E9F51 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		A28FE5BB286B97A0002E9F51 /* FarmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarmViewController.swift; sourceTree = "<group>"; };
+		A28FE5BD286B97E7002E9F51 /* SeaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeaViewController.swift; sourceTree = "<group>"; };
+		A28FE5BF286B97F4002E9F51 /* ArcticViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcticViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +112,11 @@
 				A28FE586286B8AF2002E9F51 /* AppDelegate.swift */,
 				A28FE588286B8AF2002E9F51 /* SceneDelegate.swift */,
 				A28FE58A286B8AF2002E9F51 /* ViewController.swift */,
+				A28FE5B9286B93CB002E9F51 /* HomeViewController.swift */,
+				A28FE5BD286B97E7002E9F51 /* SeaViewController.swift */,
+				A28FE5BF286B97F4002E9F51 /* ArcticViewController.swift */,
 				A28FE58C286B8AF2002E9F51 /* Main.storyboard */,
+				A28FE5BB286B97A0002E9F51 /* FarmViewController.swift */,
 				A28FE592286B8AF4002E9F51 /* Assets.xcassets */,
 				A28FE594286B8AF4002E9F51 /* LaunchScreen.storyboard */,
 				A28FE597286B8AF4002E9F51 /* Info.plist */,
@@ -261,9 +273,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A28FE5BA286B93CB002E9F51 /* HomeViewController.swift in Sources */,
 				A28FE58B286B8AF2002E9F51 /* ViewController.swift in Sources */,
+				A28FE5C0286B97F4002E9F51 /* ArcticViewController.swift in Sources */,
+				A28FE5BC286B97A0002E9F51 /* FarmViewController.swift in Sources */,
 				A28FE587286B8AF2002E9F51 /* AppDelegate.swift in Sources */,
 				A28FE589286B8AF2002E9F51 /* SceneDelegate.swift in Sources */,
+				A28FE5BE286B97E7002E9F51 /* SeaViewController.swift in Sources */,
 				A28FE591286B8AF2002E9F51 /* Lenny_s_teleportation_ride_.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
