@@ -33,6 +33,10 @@
 		DC2FE260286E1DA000F59A64 /* Pig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE254286E1DA000F59A64 /* Pig.mp3 */; };
 		DC2FE261286E1DA000F59A64 /* Seal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE255286E1DA000F59A64 /* Seal.mp3 */; };
 		DC2FE262286E1DA000F59A64 /* Turtle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE256286E1DA000F59A64 /* Turtle.mp3 */; };
+		DC2FE264286E23A000F59A64 /* Seal2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE263286E23A000F59A64 /* Seal2.mp3 */; };
+		DC2FE266286E23A400F59A64 /* Pig2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE265286E23A400F59A64 /* Pig2.mp3 */; };
+		DC2FE268286E23A900F59A64 /* Sheep2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE267286E23A900F59A64 /* Sheep2.mp3 */; };
+		DC2FE26A286E23AC00F59A64 /* Turtle2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE269286E23AC00F59A64 /* Turtle2.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +87,10 @@
 		DC2FE254286E1DA000F59A64 /* Pig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pig.mp3; sourceTree = "<group>"; };
 		DC2FE255286E1DA000F59A64 /* Seal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Seal.mp3; sourceTree = "<group>"; };
 		DC2FE256286E1DA000F59A64 /* Turtle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Turtle.mp3; sourceTree = "<group>"; };
+		DC2FE263286E23A000F59A64 /* Seal2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Seal2.mp3; sourceTree = "<group>"; };
+		DC2FE265286E23A400F59A64 /* Pig2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pig2.mp3; sourceTree = "<group>"; };
+		DC2FE267286E23A900F59A64 /* Sheep2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sheep2.mp3; sourceTree = "<group>"; };
+		DC2FE269286E23AC00F59A64 /* Turtle2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Turtle2.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +153,10 @@
 				DC2FE24C286E1DA000F59A64 /* Shark.mp3 */,
 				DC2FE24E286E1DA000F59A64 /* Sheep.mp3 */,
 				DC2FE256286E1DA000F59A64 /* Turtle.mp3 */,
+				DC2FE263286E23A000F59A64 /* Seal2.mp3 */,
+				DC2FE265286E23A400F59A64 /* Pig2.mp3 */,
+				DC2FE267286E23A900F59A64 /* Sheep2.mp3 */,
+				DC2FE269286E23AC00F59A64 /* Turtle2.mp3 */,
 				A28FE586286B8AF2002E9F51 /* AppDelegate.swift */,
 				A28FE588286B8AF2002E9F51 /* SceneDelegate.swift */,
 				A28FE58A286B8AF2002E9F51 /* ViewController.swift */,
@@ -282,6 +294,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC2FE266286E23A400F59A64 /* Pig2.mp3 in Resources */,
+				DC2FE268286E23A900F59A64 /* Sheep2.mp3 in Resources */,
+				DC2FE26A286E23AC00F59A64 /* Turtle2.mp3 in Resources */,
 				DC2FE262286E1DA000F59A64 /* Turtle.mp3 in Resources */,
 				DC2FE259286E1DA000F59A64 /* Cow.mp3 in Resources */,
 				DC2FE25D286E1DA000F59A64 /* Dolphin.mp3 in Resources */,
@@ -296,6 +311,7 @@
 				DC2FE25B286E1DA000F59A64 /* Octopus.mp3 in Resources */,
 				DC2FE25E286E1DA000F59A64 /* Penguin.mp3 in Resources */,
 				DC2FE257286E1DA000F59A64 /* PolarBear.mp3 in Resources */,
+				DC2FE264286E23A000F59A64 /* Seal2.mp3 in Resources */,
 				DC2FE261286E1DA000F59A64 /* Seal.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

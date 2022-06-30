@@ -42,7 +42,7 @@ class SeaViewController: UIViewController {
         let turtleResponse = "Turtles have a hard shell!"
          responseLabel.text = turtleResponse
         
-        let path = Bundle.main.path(forResource: "Turtle.mp3", ofType:nil)!
+        let path = Bundle.main.path(forResource: "Turtle2.mp3", ofType:nil)!
         let url = URL(fileURLWithPath: path)
 
         do {

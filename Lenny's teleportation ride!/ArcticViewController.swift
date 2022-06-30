@@ -27,7 +27,7 @@ class ArcticViewController: UIViewController {
         let sealResponse = "Seals can sleep underwater!"
          responseLabel.text = sealResponse
         
-        let path = Bundle.main.path(forResource: "Seal.mp3", ofType:nil)!
+        let path = Bundle.main.path(forResource: "Seal2.mp3", ofType:nil)!
         let url = URL(fileURLWithPath: path)
 
         do {

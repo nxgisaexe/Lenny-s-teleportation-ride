@@ -43,7 +43,7 @@ class FarmViewController: UIViewController {
         let sheepResponse = "Sheep have very fluffy wool!"
         responseLabel.text = sheepResponse
         
-        let path = Bundle.main.path(forResource: "Sheep.mp3", ofType:nil)!
+        let path = Bundle.main.path(forResource: "Sheep2.mp3", ofType:nil)!
         let url = URL(fileURLWithPath: path)
 
         do {
@@ -57,7 +57,7 @@ class FarmViewController: UIViewController {
         let pigResponse = "Pigs like to swim in the mud!"
         responseLabel.text = pigResponse
         
-        let path = Bundle.main.path(forResource: "Pig.mp3", ofType:nil)!
+        let path = Bundle.main.path(forResource: "Pig2.mp3", ofType:nil)!
         let url = URL(fileURLWithPath: path)
 
         do {
