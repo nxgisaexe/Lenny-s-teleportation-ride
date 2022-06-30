@@ -14,8 +14,27 @@ class FarmViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    
 
+    @IBOutlet weak var responseLabel: UILabel!
+    
+    
+    @IBAction func cowButton(_ sender: UIButton) {
+        let cowResponse = "Cows can't see the colors red and green!"
+        responseLabel.text = cowResponse
+    }
+    @IBAction func sheepButton(_ sender: UIButton) {
+        let sheepResponse = "Sheep have very fluffy wool!"
+        responseLabel.text = sheepResponse
+    }
+    @IBAction func pigButton(_ sender: UIButton) {
+        let pigResponse = "Pigs like to swim in the mud!"
+        responseLabel.text = pigResponse
+    }
+    @IBAction func horseButton(_ sender: UIButton) {
+        let horseResponse = "People enjoy riding on horses' backs!"
+        responseLabel.text = horseResponse
+    }
+    
     /*
     // MARK: - Navigation
 
