@@ -57,7 +57,7 @@ class FarmViewController: UIViewController {
         let pigResponse = "Pigs like to swim in the mud!"
         responseLabel.text = pigResponse
         
-        let path = Bundle.main.path(forResource: "Pig2.mp3", ofType:nil)!
+        let path = Bundle.main.path(forResource: "Piggy.mp3", ofType:nil)!
         let url = URL(fileURLWithPath: path)
 
         do {

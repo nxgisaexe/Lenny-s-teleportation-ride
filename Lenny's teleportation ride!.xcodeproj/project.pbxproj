@@ -37,6 +37,11 @@
 		DC2FE266286E23A400F59A64 /* Pig2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE265286E23A400F59A64 /* Pig2.mp3 */; };
 		DC2FE268286E23A900F59A64 /* Sheep2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE267286E23A900F59A64 /* Sheep2.mp3 */; };
 		DC2FE26A286E23AC00F59A64 /* Turtle2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE269286E23AC00F59A64 /* Turtle2.mp3 */; };
+		DCC051BB286E25B0001ED6AB /* Turtle3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DCC051BA286E25B0001ED6AB /* Turtle3.mp3 */; };
+		DCC051BD286E25FC001ED6AB /* Pig3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DCC051BC286E25FC001ED6AB /* Pig3.mp3 */; };
+		DCC051BF286E262A001ED6AB /* Seal3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DCC051BE286E262A001ED6AB /* Seal3.mp3 */; };
+		DCC051C1286E2788001ED6AB /* Piggy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DCC051C0286E2788001ED6AB /* Piggy.mp3 */; };
+		DCC051C3286E27F4001ED6AB /* Seal4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DCC051C2286E27F4001ED6AB /* Seal4.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +96,11 @@
 		DC2FE265286E23A400F59A64 /* Pig2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pig2.mp3; sourceTree = "<group>"; };
 		DC2FE267286E23A900F59A64 /* Sheep2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sheep2.mp3; sourceTree = "<group>"; };
 		DC2FE269286E23AC00F59A64 /* Turtle2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Turtle2.mp3; sourceTree = "<group>"; };
+		DCC051BA286E25B0001ED6AB /* Turtle3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Turtle3.mp3; sourceTree = "<group>"; };
+		DCC051BC286E25FC001ED6AB /* Pig3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pig3.mp3; sourceTree = "<group>"; };
+		DCC051BE286E262A001ED6AB /* Seal3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Seal3.mp3; sourceTree = "<group>"; };
+		DCC051C0286E2788001ED6AB /* Piggy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Piggy.mp3; sourceTree = "<group>"; };
+		DCC051C2286E27F4001ED6AB /* Seal4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Seal4.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +167,11 @@
 				DC2FE265286E23A400F59A64 /* Pig2.mp3 */,
 				DC2FE267286E23A900F59A64 /* Sheep2.mp3 */,
 				DC2FE269286E23AC00F59A64 /* Turtle2.mp3 */,
+				DCC051BA286E25B0001ED6AB /* Turtle3.mp3 */,
+				DCC051BC286E25FC001ED6AB /* Pig3.mp3 */,
+				DCC051BE286E262A001ED6AB /* Seal3.mp3 */,
+				DCC051C0286E2788001ED6AB /* Piggy.mp3 */,
+				DCC051C2286E27F4001ED6AB /* Seal4.mp3 */,
 				A28FE586286B8AF2002E9F51 /* AppDelegate.swift */,
 				A28FE588286B8AF2002E9F51 /* SceneDelegate.swift */,
 				A28FE58A286B8AF2002E9F51 /* ViewController.swift */,
@@ -302,14 +317,19 @@
 				DC2FE25D286E1DA000F59A64 /* Dolphin.mp3 in Resources */,
 				A28FE596286B8AF4002E9F51 /* LaunchScreen.storyboard in Resources */,
 				A28FE593286B8AF4002E9F51 /* Assets.xcassets in Resources */,
+				DCC051C3286E27F4001ED6AB /* Seal4.mp3 in Resources */,
 				DC2FE25C286E1DA000F59A64 /* Narwhal.mp3 in Resources */,
+				DCC051BD286E25FC001ED6AB /* Pig3.mp3 in Resources */,
 				DC2FE258286E1DA000F59A64 /* Shark.mp3 in Resources */,
+				DCC051BF286E262A001ED6AB /* Seal3.mp3 in Resources */,
 				A28FE58E286B8AF2002E9F51 /* Main.storyboard in Resources */,
+				DCC051C1286E2788001ED6AB /* Piggy.mp3 in Resources */,
 				DC2FE260286E1DA000F59A64 /* Pig.mp3 in Resources */,
 				DC2FE25A286E1DA000F59A64 /* Sheep.mp3 in Resources */,
 				DC2FE25F286E1DA000F59A64 /* Horse.mp3 in Resources */,
 				DC2FE25B286E1DA000F59A64 /* Octopus.mp3 in Resources */,
 				DC2FE25E286E1DA000F59A64 /* Penguin.mp3 in Resources */,
+				DCC051BB286E25B0001ED6AB /* Turtle3.mp3 in Resources */,
 				DC2FE257286E1DA000F59A64 /* PolarBear.mp3 in Resources */,
 				DC2FE264286E23A000F59A64 /* Seal2.mp3 in Resources */,
 				DC2FE261286E1DA000F59A64 /* Seal.mp3 in Resources */,
