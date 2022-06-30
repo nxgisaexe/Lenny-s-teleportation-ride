@@ -21,6 +21,18 @@
 		A28FE5BC286B97A0002E9F51 /* FarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5BB286B97A0002E9F51 /* FarmViewController.swift */; };
 		A28FE5BE286B97E7002E9F51 /* SeaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5BD286B97E7002E9F51 /* SeaViewController.swift */; };
 		A28FE5C0286B97F4002E9F51 /* ArcticViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28FE5BF286B97F4002E9F51 /* ArcticViewController.swift */; };
+		DC2FE257286E1DA000F59A64 /* PolarBear.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE24B286E1DA000F59A64 /* PolarBear.mp3 */; };
+		DC2FE258286E1DA000F59A64 /* Shark.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE24C286E1DA000F59A64 /* Shark.mp3 */; };
+		DC2FE259286E1DA000F59A64 /* Cow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE24D286E1DA000F59A64 /* Cow.mp3 */; };
+		DC2FE25A286E1DA000F59A64 /* Sheep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE24E286E1DA000F59A64 /* Sheep.mp3 */; };
+		DC2FE25B286E1DA000F59A64 /* Octopus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE24F286E1DA000F59A64 /* Octopus.mp3 */; };
+		DC2FE25C286E1DA000F59A64 /* Narwhal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE250286E1DA000F59A64 /* Narwhal.mp3 */; };
+		DC2FE25D286E1DA000F59A64 /* Dolphin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE251286E1DA000F59A64 /* Dolphin.mp3 */; };
+		DC2FE25E286E1DA000F59A64 /* Penguin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE252286E1DA000F59A64 /* Penguin.mp3 */; };
+		DC2FE25F286E1DA000F59A64 /* Horse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE253286E1DA000F59A64 /* Horse.mp3 */; };
+		DC2FE260286E1DA000F59A64 /* Pig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE254286E1DA000F59A64 /* Pig.mp3 */; };
+		DC2FE261286E1DA000F59A64 /* Seal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE255286E1DA000F59A64 /* Seal.mp3 */; };
+		DC2FE262286E1DA000F59A64 /* Turtle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DC2FE256286E1DA000F59A64 /* Turtle.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +71,18 @@
 		A28FE5BB286B97A0002E9F51 /* FarmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarmViewController.swift; sourceTree = "<group>"; };
 		A28FE5BD286B97E7002E9F51 /* SeaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeaViewController.swift; sourceTree = "<group>"; };
 		A28FE5BF286B97F4002E9F51 /* ArcticViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcticViewController.swift; sourceTree = "<group>"; };
+		DC2FE24B286E1DA000F59A64 /* PolarBear.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = PolarBear.mp3; sourceTree = "<group>"; };
+		DC2FE24C286E1DA000F59A64 /* Shark.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Shark.mp3; sourceTree = "<group>"; };
+		DC2FE24D286E1DA000F59A64 /* Cow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Cow.mp3; sourceTree = "<group>"; };
+		DC2FE24E286E1DA000F59A64 /* Sheep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sheep.mp3; sourceTree = "<group>"; };
+		DC2FE24F286E1DA000F59A64 /* Octopus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Octopus.mp3; sourceTree = "<group>"; };
+		DC2FE250286E1DA000F59A64 /* Narwhal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Narwhal.mp3; sourceTree = "<group>"; };
+		DC2FE251286E1DA000F59A64 /* Dolphin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dolphin.mp3; sourceTree = "<group>"; };
+		DC2FE252286E1DA000F59A64 /* Penguin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Penguin.mp3; sourceTree = "<group>"; };
+		DC2FE253286E1DA000F59A64 /* Horse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Horse.mp3; sourceTree = "<group>"; };
+		DC2FE254286E1DA000F59A64 /* Pig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pig.mp3; sourceTree = "<group>"; };
+		DC2FE255286E1DA000F59A64 /* Seal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Seal.mp3; sourceTree = "<group>"; };
+		DC2FE256286E1DA000F59A64 /* Turtle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Turtle.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +133,18 @@
 		A28FE585286B8AF2002E9F51 /* Lenny's teleportation ride! */ = {
 			isa = PBXGroup;
 			children = (
+				DC2FE24D286E1DA000F59A64 /* Cow.mp3 */,
+				DC2FE251286E1DA000F59A64 /* Dolphin.mp3 */,
+				DC2FE253286E1DA000F59A64 /* Horse.mp3 */,
+				DC2FE250286E1DA000F59A64 /* Narwhal.mp3 */,
+				DC2FE24F286E1DA000F59A64 /* Octopus.mp3 */,
+				DC2FE252286E1DA000F59A64 /* Penguin.mp3 */,
+				DC2FE254286E1DA000F59A64 /* Pig.mp3 */,
+				DC2FE24B286E1DA000F59A64 /* PolarBear.mp3 */,
+				DC2FE255286E1DA000F59A64 /* Seal.mp3 */,
+				DC2FE24C286E1DA000F59A64 /* Shark.mp3 */,
+				DC2FE24E286E1DA000F59A64 /* Sheep.mp3 */,
+				DC2FE256286E1DA000F59A64 /* Turtle.mp3 */,
 				A28FE586286B8AF2002E9F51 /* AppDelegate.swift */,
 				A28FE588286B8AF2002E9F51 /* SceneDelegate.swift */,
 				A28FE58A286B8AF2002E9F51 /* ViewController.swift */,
@@ -246,9 +282,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC2FE262286E1DA000F59A64 /* Turtle.mp3 in Resources */,
+				DC2FE259286E1DA000F59A64 /* Cow.mp3 in Resources */,
+				DC2FE25D286E1DA000F59A64 /* Dolphin.mp3 in Resources */,
 				A28FE596286B8AF4002E9F51 /* LaunchScreen.storyboard in Resources */,
 				A28FE593286B8AF4002E9F51 /* Assets.xcassets in Resources */,
+				DC2FE25C286E1DA000F59A64 /* Narwhal.mp3 in Resources */,
+				DC2FE258286E1DA000F59A64 /* Shark.mp3 in Resources */,
 				A28FE58E286B8AF2002E9F51 /* Main.storyboard in Resources */,
+				DC2FE260286E1DA000F59A64 /* Pig.mp3 in Resources */,
+				DC2FE25A286E1DA000F59A64 /* Sheep.mp3 in Resources */,
+				DC2FE25F286E1DA000F59A64 /* Horse.mp3 in Resources */,
+				DC2FE25B286E1DA000F59A64 /* Octopus.mp3 in Resources */,
+				DC2FE25E286E1DA000F59A64 /* Penguin.mp3 in Resources */,
+				DC2FE257286E1DA000F59A64 /* PolarBear.mp3 in Resources */,
+				DC2FE261286E1DA000F59A64 /* Seal.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
